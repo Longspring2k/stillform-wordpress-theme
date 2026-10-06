@@ -1,0 +1,1 @@
+<svg viewBox="0 0 620 520" role="img" aria-label="Abstract charcoal staircase"><rect width="620" height="520" fill="#2c2b28"/><path d="M0 440h120v-80h100v-90h100v-90h100V90h200v430H0z" fill="#e7dfd2"/><path d="M120 360h100v80H120zm200-180h100v90H320z" fill="#b97938"/><circle cx="500" cy="115" r="46" fill="#d6c5aa"/></svg>

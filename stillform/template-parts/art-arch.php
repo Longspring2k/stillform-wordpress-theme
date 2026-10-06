@@ -1,0 +1,1 @@
+<svg viewBox="0 0 620 440" role="img" aria-label="Abstract ochre arch"><rect width="620" height="440" fill="#bd7733"/><path d="M120 440V210C120 80 500 80 500 210v230" fill="#e8dac8"/><path d="M210 440V232c0-112 200-112 200 0v208" fill="#292825"/><circle cx="310" cy="240" r="32" fill="#bd7733"/></svg>

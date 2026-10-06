@@ -1,0 +1,1 @@
+<?php get_header(); ?><main id="main" class="site-shell error-page"><span class="eyebrow">404</span><h1><?php esc_html_e('This room is empty.','stillform'); ?></h1><p><a class="text-link" href="<?php echo esc_url(home_url('/')); ?>"><?php esc_html_e('Return home','stillform'); ?> →</a></p></main><?php get_footer(); ?>
