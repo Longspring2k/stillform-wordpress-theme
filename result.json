@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-07",
+  "theme_name": "Stillform",
+  "repo_url": "https://github.com/Longspring2k/stillform-wordpress-theme",
+  "remote_handle": "Longspring2k/stillform-wordpress-theme",
+  "sha": "f947cd41391439784bc83547a00ef0d2c4faaae6",
+  "release": "v1.0.0",
+  "artifact": "E:/Daily-Themes/2026-10-07/stillform-1.0.0.zip",
+  "artifact_sha256": "1cb8c7d01e5130e32e09f758dd0bb35ed1c56583a84aa561f49a8f691fab5622",
+  "screenshots": [
+    "E:/Daily-Themes/2026-10-07/screenshots/stillform-home-desktop.png",
+    "E:/Daily-Themes/2026-10-07/screenshots/stillform-home-mobile.png"
+  ],
+  "pages": ["Home", "Studio", "Projects", "Journal", "Contact"],
+  "sample_content": {
+    "mode": "explicit opt-in via Appearance > Stillform setup",
+    "activation_mutation": false,
+    "preserves_same_title_pages": true
+  },
+  "test_results": [
+    {"test": "PHP syntax lint", "result": "pass", "detail": "11 PHP files passed under PHP 8.3.31"},
+    {"test": "JavaScript syntax", "result": "pass", "detail": "node --check passed"},
+    {"test": "theme.json parsing", "result": "pass", "detail": "valid JSON"},
+    {"test": "native structure and sample content policy", "result": "pass", "detail": "required templates present; five pages; explicit opt-in; no activation content mutation"},
+    {"test": "installable ZIP integrity", "result": "pass", "detail": "22 theme files; archive test passed"},
+    {"test": "WordPress core exercise", "result": "partial", "detail": "WordPress 7.1.3 downloaded and theme installed into wp-content/themes; HTTP request reached core but returned 500 because no MySQL/database service was available"},
+    {"test": "visual preview", "result": "pass", "detail": "desktop and mobile screenshots rendered from actual theme CSS and original SVG artwork"},
+    {"test": "GitHub identity and publication", "result": "pass", "detail": "isolated GH_TOKEN resolved to Longspring2k; public repo, main commit and v1.0.0 release verified"}
+  ],
+  "remaining_gaps": [
+    "Full browser runtime testing in an installed WordPress site with a database was not possible because Docker/MySQL was unavailable.",
+    "Google Fonts are runtime dependencies; local fallback fonts are defined."
+  ]
+}
