@@ -1,0 +1,3 @@
+<?php get_header(); ?>
+<main id="main" class="page-main"><header class="page-hero site-shell"><p class="eyebrow"><?php esc_html_e('Selected work', 'stillform'); ?></p><h1><?php post_type_archive_title(); ?></h1><p class="archive-intro"><?php esc_html_e('Houses, rooms and small public places grounded in their climate and daily use.', 'stillform'); ?></p></header><div class="site-shell project-grid project-grid--archive"><?php $i = 0; if (have_posts()) : while (have_posts()) : the_post(); stillform_project_card(get_the_ID(), $i++); endwhile; endif; ?></div><div class="site-shell pagination"><?php the_posts_pagination(); ?></div></main>
+<?php get_footer(); ?>

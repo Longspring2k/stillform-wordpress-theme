@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-07",
+  "theme": "Stillform",
+  "version": "1.1.0",
+  "repo": "Longspring2k/stillform-wordpress-theme",
+  "artifact": "stillform-1.1.0.zip",
+  "artifact_sha256": "a76881f9e7980a81ca427861f196ae4e2b58fd96042cec15abb9180ba694ab5f",
+  "local_review_url": "http://127.0.0.1:8098",
+  "pages": ["Home", "Studio", "Projects", "Journal", "Contact"],
+  "projects": 4,
+  "journal_posts": 3,
+  "bundled_photographs": 8,
+  "runtime": "Exact ZIP extracted into isolated Docker WordPress 7.1.0 / PHP 8.3 / MySQL 8.4",
+  "checks": {
+    "structural_tests": "8 passed",
+    "php_lint": "20 PHP files passed inside Docker",
+    "javascript_syntax": "passed",
+    "installer_repeat": "no duplicate content",
+    "conflict_preservation": "non-owned page content unchanged",
+    "activation_content": "no mutation",
+    "native_edit_frontend": "passed; test change restored",
+    "customizer_email_frontend": "passed; test value restored",
+    "main_page_captures": "10 real CMS captures, 1440 and 390px",
+    "internal_urls": "12 HTTP 200",
+    "images": "all loaded in main-page captures",
+    "horizontal_overflow": false,
+    "mobile_menu_escape": "passed at 360px"
+  },
+  "evidence": ["runtime-evidence.json", "browser-evidence.json", "link-evidence.json", "interaction-evidence.json", "screenshots/"],
+  "limitations": ["Contact uses configurable demo email, no form delivery service", "Fictional portfolio content and licensed demo photographs", "Focused Chromium validation, not exhaustive cross-browser or accessibility audit", "WordPress core emitted nonfatal warnings/deprecations during CLI setup"],
+  "recurring_schedule": "paused pending user review"
+}

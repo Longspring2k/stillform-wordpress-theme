@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+runtime/
+preview/
+local-private/
+node_modules/
+*.log
+__pycache__/
+.pytest_cache/

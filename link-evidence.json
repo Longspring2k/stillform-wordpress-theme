@@ -1,0 +1,50 @@
+[
+  {
+    "url": "http://127.0.0.1:8098/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/contact/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/drawing-with-daylight/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/journal/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/material-not-moodboard/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/projects/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/projects/courtyard-house/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/projects/house-of-thresholds/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/projects/ochre-rooms/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/projects/tidal-pavilion/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/studio/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+    "status": 200
+  }
+]

@@ -1,1 +1,32 @@
-{"$schema":"https://schemas.wp.org/trunk/theme.json","version":3,"settings":{"appearanceTools":true,"layout":{"contentSize":"900px","wideSize":"1320px"},"color":{"palette":[{"slug":"ivory","color":"#f3eee5","name":"Ivory"},{"slug":"charcoal","color":"#292825","name":"Charcoal"},{"slug":"ochre","color":"#b97938","name":"Ochre"},{"slug":"paper","color":"#e7dfd2","name":"Paper"}]},"typography":{"fluid":true,"fontSizes":[{"slug":"small","size":"0.8rem","name":"Small"},{"slug":"large","size":"1.35rem","name":"Large"},{"slug":"x-large","size":"clamp(3rem,8vw,8rem)","name":"Display"}]}},"styles":{"color":{"background":"#f3eee5","text":"#292825"},"typography":{"fontFamily":"Georgia, serif","lineHeight":"1.55"},"elements":{"button":{"color":{"background":"#292825","text":"#f3eee5"},"border":{"radius":"0"}}}}}
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {"contentSize": "760px", "wideSize": "1320px"},
+    "color": {"defaultPalette": false, "palette": [
+      {"slug": "ivory", "color": "#f2ede3", "name": "Warm ivory"},
+      {"slug": "ink", "color": "#171714", "name": "Ink"},
+      {"slug": "rust", "color": "#a5482d", "name": "Rust"},
+      {"slug": "sand", "color": "#d6caba", "name": "Sand"},
+      {"slug": "sage", "color": "#667064", "name": "Sage"}
+    ]},
+    "spacing": {"units": ["px", "rem", "vw", "%"], "blockGap": true},
+    "typography": {"fluid": true, "dropCap": true, "fontSizes": [
+      {"slug": "small", "size": "0.75rem", "name": "Small"},
+      {"slug": "medium", "size": "1rem", "name": "Medium"},
+      {"slug": "large", "size": "clamp(1.35rem, 2vw, 1.8rem)", "name": "Large"},
+      {"slug": "x-large", "size": "clamp(3.5rem, 9vw, 8rem)", "name": "Display"}
+    ]}
+  },
+  "styles": {
+    "color": {"background": "#f2ede3", "text": "#171714"},
+    "typography": {"fontFamily": "Arial, Helvetica, sans-serif", "lineHeight": "1.6"},
+    "spacing": {"blockGap": "1.5rem"},
+    "elements": {
+      "heading": {"typography": {"fontFamily": "Georgia, 'Times New Roman', serif", "fontWeight": "400", "lineHeight": "1.02"}},
+      "link": {"color": {"text": "#171714"}},
+      "button": {"color": {"background": "#171714", "text": "#f2ede3"}, "border": {"radius": "0"}, "typography": {"fontSize": "0.75rem", "textTransform": "uppercase", "letterSpacing": "0.12em"}}
+    }
+  }
+}

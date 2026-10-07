@@ -1,9 +1,12 @@
 {
+  "status": "rejected_superseded",
+  "superseded_by": "result-v1.1.0.json",
+  "notice": "Historical v1.0.0 report. Its static visual PASS was invalid; do not use as runtime evidence.",
   "date": "2026-10-07",
   "theme_name": "Stillform",
   "repo_url": "https://github.com/Longspring2k/stillform-wordpress-theme",
   "remote_handle": "Longspring2k/stillform-wordpress-theme",
-  "sha": "f947cd41391439784bc83547a00ef0d2c4faaae6",
+  "sha": "eaa9dd6d12845b761b0f9e656105269def077eda",
   "release": "v1.0.0",
   "artifact": "E:/Daily-Themes/2026-10-07/stillform-1.0.0.zip",
   "artifact_sha256": "1cb8c7d01e5130e32e09f758dd0bb35ed1c56583a84aa561f49a8f691fab5622",

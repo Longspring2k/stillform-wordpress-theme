@@ -1,0 +1,15 @@
+{
+  "activation_preserves_content": true,
+  "installer_idempotent": true,
+  "counts": {
+    "pages": 5,
+    "projects": 4,
+    "posts": 3,
+    "images": 8
+  },
+  "native_content_edit_renders": true,
+  "customizer_contact_renders": true,
+  "non_owned_conflict_preserved": true,
+  "url": "http://127.0.0.1:8098",
+  "source": "exact release ZIP extracted into fresh Docker WordPress volume"
+}

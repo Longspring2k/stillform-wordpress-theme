@@ -1,0 +1,560 @@
+[
+  {
+    "title": "\ud83d\udc34 Stillform",
+    "h1": [
+      "Spaces for\nslower living."
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-1536x1044.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-1000x1224.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/threshold-house-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/ochre-rooms-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/pavilion-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/themes/stillform/assets/images/architecture/studio-table.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stair-light-1024x683.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/material-study-1024x768.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1024x683.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/journal/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/front-page.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "home",
+    "viewport": "desktop",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-home-desktop.png"
+  },
+  {
+    "title": "\ud83d\udc34 Studio \u2013 Stillform",
+    "h1": [
+      "Studio"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/studio-table-1800x1300.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/studio/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/studio/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "studio",
+    "viewport": "desktop",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-studio-desktop.png"
+  },
+  {
+    "title": "\ud83d\udc34 Projects \u2013 Stillform",
+    "h1": [
+      "Projects"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-1000x1224.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/threshold-house-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/ochre-rooms-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/pavilion-1000x1200.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/projects/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/archive.css?ver=1.1.0"
+    ],
+    "page": "projects",
+    "viewport": "desktop",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-projects-desktop.png"
+  },
+  {
+    "title": "\ud83d\udc34 Journal \u2013 Stillform",
+    "h1": [
+      "Journal"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stair-light-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/material-study-1000x1250.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1000x1200.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/journal/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/journal/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "journal",
+    "viewport": "desktop",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-journal-desktop.png"
+  },
+  {
+    "title": "\ud83d\udc34 Contact \u2013 Stillform",
+    "h1": [
+      "Contact"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1536x1024.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/contact/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "mailto:studio@example.com",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/contact/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "contact",
+    "viewport": "desktop",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-contact-desktop.png"
+  },
+  {
+    "title": "\ud83d\udc34 Stillform",
+    "h1": [
+      "Spaces for\nslower living."
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-768x522.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-1000x1224.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/threshold-house-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/ochre-rooms-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/pavilion-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/themes/stillform/assets/images/architecture/studio-table.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stair-light-768x512.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/material-study-768x576.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1536x1024.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/journal/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/front-page.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "home",
+    "viewport": "mobile",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-home-mobile.png"
+  },
+  {
+    "title": "\ud83d\udc34 Studio \u2013 Stillform",
+    "h1": [
+      "Studio"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/studio-table-1800x1300.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/studio/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/studio/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "studio",
+    "viewport": "mobile",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-studio-mobile.png"
+  },
+  {
+    "title": "\ud83d\udc34 Projects \u2013 Stillform",
+    "h1": [
+      "Projects"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/courtyard-house-1000x1224.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/threshold-house-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/ochre-rooms-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/pavilion-1000x1200.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/projects/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/courtyard-house/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/house-of-thresholds/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/ochre-rooms/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "http://127.0.0.1:8098/projects/tidal-pavilion/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/projects/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/archive.css?ver=1.1.0"
+    ],
+    "page": "projects",
+    "viewport": "mobile",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-projects-mobile.png"
+  },
+  {
+    "title": "\ud83d\udc34 Journal \u2013 Stillform",
+    "h1": [
+      "Journal"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stair-light-1000x1200.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/material-study-1000x1250.jpg"
+      },
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1000x1200.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/journal/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/the-weight-of-a-threshold/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/material-not-moodboard/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "http://127.0.0.1:8098/drawing-with-daylight/",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/journal/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "journal",
+    "viewport": "mobile",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-journal-mobile.png"
+  },
+  {
+    "title": "\ud83d\udc34 Contact \u2013 Stillform",
+    "h1": [
+      "Contact"
+    ],
+    "overflow": false,
+    "images": [
+      {
+        "ok": true,
+        "url": "http://127.0.0.1:8098/wp-content/uploads/2026/10/stone-detail-1536x1024.jpg"
+      }
+    ],
+    "links": [
+      "http://127.0.0.1:8098/contact/#main",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "mailto:studio@example.com",
+      "mailto:studio@example.com",
+      "http://127.0.0.1:8098/",
+      "http://127.0.0.1:8098/studio/",
+      "http://127.0.0.1:8098/projects/",
+      "http://127.0.0.1:8098/journal/",
+      "http://127.0.0.1:8098/contact/",
+      "http://127.0.0.1:8098/contact/#top"
+    ],
+    "background": "rgb(242, 237, 227)",
+    "styles": [
+      "http://127.0.0.1:8098/wp-content/themes/stillform/style.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/global.css?ver=1.1.0",
+      "http://127.0.0.1:8098/wp-content/themes/stillform/assets/css/page.css?ver=1.1.0"
+    ],
+    "page": "contact",
+    "viewport": "mobile",
+    "screenshot": "E:\\Daily-Themes\\2026-10-07\\screenshots\\stillform-contact-mobile.png"
+  }
+]

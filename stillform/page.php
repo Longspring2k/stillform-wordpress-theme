@@ -1,1 +1,7 @@
-<?php get_header(); while(have_posts()): the_post(); ?><main id="main" class="page-main"><header class="page-hero site-shell"><span class="eyebrow"><?php echo esc_html(sprintf('%02d', get_the_ID()%99)); ?> — <?php esc_html_e('Stillform','stillform'); ?></span><h1><?php the_title(); ?></h1><div class="page-rule"></div></header><div class="page-layout site-shell"><aside><?php echo esc_html(get_the_date('Y')); ?></aside><article class="entry-content"><?php if(has_post_thumbnail()) the_post_thumbnail('large'); the_content(); wp_link_pages(); ?></article></div></main><?php endwhile; get_footer(); ?>
+<?php get_header(); while (have_posts()) : the_post(); ?>
+<main id="main" class="page-main">
+<header class="page-hero site-shell"><p class="eyebrow"><?php echo esc_html(stillform_page_kicker()); ?></p><h1><?php the_title(); ?></h1></header>
+<?php if (has_post_thumbnail()) : ?><figure class="page-banner image-reveal"><?php the_post_thumbnail('stillform-hero'); ?></figure><?php endif; ?>
+<div class="site-shell page-frame"><aside class="page-index"><span><?php echo esc_html(sprintf('%02d', (get_the_ID() % 9) + 1)); ?></span><p><?php echo esc_html(get_the_excerpt()); ?></p></aside><article class="entry-content entry-content--wide"><?php the_content(); wp_link_pages(); ?></article></div>
+</main>
+<?php endwhile; get_footer(); ?>
